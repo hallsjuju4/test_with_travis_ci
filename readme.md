@@ -1,5 +1,3 @@
-# Stores REST Api
+# Test Automation with Python
 
-This is built with Flask, Flask-RESTful, Flask-JWT, and Flask-SQLAlchemy.
-
-Deployed on Heroku.
+Section 8 Code Project applied to Travis-CI
